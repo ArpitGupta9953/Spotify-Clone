@@ -2,6 +2,9 @@
 
 A responsive Spotify clone created using React.js and Tailwind CSS. This project highlights key web development skills, including managing components with React hooks, navigating pages with React Router, and designing layouts using Tailwind CSS.
 
+## Image
+
+
 ## Table of Contents
 
 - [Features](#features)
@@ -25,6 +28,7 @@ A responsive Spotify clone created using React.js and Tailwind CSS. This project
 - React-DOM
 
 ## Installation
+<img width="1918" height="895" alt="Screenshot 2025-07-20 200224" src="https://github.com/user-attachments/assets/e59d7339-8c06-4443-a758-b584bc599d68" />
 
 1. Clone the repository:
    ```sh
